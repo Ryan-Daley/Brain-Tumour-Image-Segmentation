@@ -1,2 +1,2 @@
 # Brain-Tumour-Image-Segmentation
-Coursework where the task was to training a CNN to accurately segment brain tumours from brain scan dataset.
+Coursework Objective: To develop and train a convolutional neural network for brain tumour image segmentation
